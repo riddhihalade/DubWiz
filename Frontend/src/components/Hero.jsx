@@ -21,7 +21,7 @@ const Hero = ({ onGetStarted }) => {
       <div className="justify-end items-center m-6 overflow-hidden ">
         <div className=" flex justify-center">
         <button onClick={onGetStarted} className="text-center rounded-xl w-80 h-14 bg-zinc-800 shadow-inner text-white font-bold font-myFont m-4 ">
-          Get started here!!
+          Get started
         </button>
         </div>
         <div className="flex justify-center">
