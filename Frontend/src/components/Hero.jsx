@@ -10,7 +10,7 @@ const Hero = ({ onGetStarted }) => {
     <div className="bg-violet-600">
       <Navbar />
       <div>
-        <h1 className="m-2 landingHeading font-bold"> DUB YOUR VIDEOS HERE! </h1>
+        <h1 className="m-2 landingHeading font-bold"> DUB YOUR VIDEOS! </h1>
       </div>
       <div
         className="text-center text-white text-[28px] font-bold 
