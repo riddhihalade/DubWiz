@@ -16,7 +16,7 @@ const Hero = ({ onGetStarted }) => {
         className="text-center text-white text-[28px] font-bold 
        leading-[42px] mb-2"
       >
-        Unlock Voices, Amplify Stories: Your Trusted Video Dubbing Hub.
+        Unlock Voices, Dub Stories: Your Trusted Video Dubbing Hub.
       </div>
       <div className="justify-end items-center m-6 overflow-hidden ">
         <div className=" flex justify-center">
